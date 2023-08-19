@@ -1,1625 +1,1644 @@
 [
-  {
-    "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "VCO"
-    ],
-    "name": "1222 Performance VCO",
-    "description": "A VCO based on the CEM3340 chip.",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1112-performance-filter",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1222_Performance_filter_1024x1024@2x.jpg?v=1617290457"
-  },
-  {
-    "id": "24c381ea-ba44-4c61-86a4-c3917e42e946",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Filter"
-    ],
-    "name": "1113 Performance Filter",
-    "description": "MS20 style filter based on the René Schmitz design.",
-    "width": 20,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1113-kosmo-2-0-performance-filter",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1113_-_Pic1_1024x1024@2x.jpg?v=1617289125"
-  },
-  {
-    "id": "29e9f25e-4b13-40e0-8c59-cba26db6f408",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Delay"
-    ],
-    "name": "2399 Triple Splashback Delay",
-    "description": "Delay module based on the PT2399 chip.",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2399-triple-splashback-delay",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/2399Mainnew_1024x1024@2x.png?v=1617290595"
-  },
-  {
-    "id": "5606ebaa-39d4-4ecc-8083-b86c5fdc74af",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Mixer"
-    ],
-    "name": "1163 Mixer",
-    "description": "6 channel mixer suitable for audio or cv.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1163-mini-mixer",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1.3_1024x1024@2x.jpg?v=1617289568"
-  },
-  {
-    "id": "d97af3bd-bc5b-46c3-b2c7-5ba8d9af832a",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "VCO"
-    ],
-    "name": "2000 Megadrone 10 Oscillator",
-    "description": "A bank of 10 oscillators from the Megadrone.",
-    "width": 40,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2000-megadrone-10-oscillator-panel-pcb-set",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/20001_1024x1024@2x.png?v=1617290525"
-  },
-  {
-    "id": "8d7a73cf-59e4-4044-9c15-95097ffcb2fc",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "VCA"
-    ],
-    "name": "1183 Quad VCA Mixer",
-    "description": "Quad VCA module designed around 2 AS3360 chips.",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1184-quad-vca-mixer",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1184_1024x1024@2x.png?v=1617289755"
-  },
-  {
-    "id": "dbf4b9db-2ba5-4813-b076-048d1e90067c",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "LFO"
-    ],
-    "name": "1145 VCLFO",
-    "description": "VCLFO based on the VCLFO10 chip.",
-    "width": 10,
-    "type": [
-      "PCB + Panel", "Chipset"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1145-kosmo-vclfo-lfo",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1145_-_Pic_4_1024x1024@2x.jpg?v=1574941260"
-  },
-  {
-    "id": "2e729b12-018c-43e3-a698-666eea61756d",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Filter"
-    ],
-    "name": "1114 Filter Grr",
-    "description": "A new filter that is 'very odd.'",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1114-filter-grr",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/14441_1024x1024@2x.png?v=1617289259"
-  },
-  {
-    "id": "586c881d-722a-4fe8-807f-7cd25d90a708",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Multiple"
-    ],
-    "name": "1161 Dual Buffered Multiple",
-    "description": "Designed to split and buffer signal to make sure the juice doesn't get sucked out of the signal plugged in.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1161-dual-buffered-multiple",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11611_1024x1024@2x.png?v=1617289512"
-  },
-  {
-    "id": "ebb981f1-8537-43e2-867e-ac08861fafde",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Distortion"
-    ],
-    "name": "4710 Safety Valve",
-    "description": "A valve based distortion module.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/4710-safety-valve-panel-pcb-set",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/47101_1024x1024@2x.png?v=1615303792"
-  },
-  {
-    "id": "31dc99e5-261c-444b-9bb8-95aed002c73d",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Envelope Generator", "LFO"
-    ],
-    "name": "1153 Bounce....",
-    "description": "A bouncing ball simulator that has a lot more uses than you would expect.",
-    "width": 5,
-    "type": [
-      "PCB + Panel", "Chipset"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1153-bounce-bounce-bounce-bounce-bounce-bounce-bounce",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11531_1024x1024@2x.png?v=1617289363"
-  },
-  {
-    "id": "797a10f0-d634-43f9-8d86-1c9950fbdec5",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Synthesiser Voice"
-    ],
-    "name": "Fart Box",
-    "description": "Limited edition white pcb to build a Fart Box.",
-    "width": 20,
-    "type": [
-      "PCB"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/fart-box-pcb-limited-edition-white",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/Fartbox1_1024x1024@2x.png?v=1590747567"
-  },
-  {
-    "id": "f0cea961-55b5-4dee-a8f9-56d0595c8bd4",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "MIDI"
-    ],
-    "name": "1007 MIDI-CV",
-    "description": "A MIDI to CV converter module based on the midimuso chip.",
-    "width": 10,
-    "type": [
-      "PCB + Panel", "Chipset"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1007-midimuso-midi-cv-module-pcb-panel-chipset",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/100701_1024x1024@2x.png?v=1617289164"
-  },
-  {
-    "id": "4dc5d3f9-3d2f-4e6f-afff-2cb5c514c49e",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "1157 Mini ADSR",
-    "description": "ADSR Envelope Generator based on the Electric Druid ENVGEN8 chip.",
-    "width": 5,
-    "type": [
-      "PCB + Panel", "Chipset"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1157-mini-adsr-chipset",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1157square_1024x1024@2x.png?v=1617289452"
-  },
-  {
-    "id": "064761c4-fcad-47ca-b089-c6ac4cc041b4",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Attenuverter"
-    ],
-    "name": "1171 O.B.A.",
-    "description": "Offset, Boost, Attenuvert.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1171-o-b-a",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/11711_1024x1024@2x.png?v=1617289606"
-  },
-  {
-    "id": "96431358-3ccb-4dca-93a6-414a8685862b",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "VCA"
-    ],
-    "name": "1181 Dual VCA",
-    "description": "Two channel VCA based on the AS3360 chip.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/1181-dual-vca",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1181_1024x1024@2x.png?v=1617289714"
-  },
-  {
-    "id": "1e6041d1-21e9-44f1-b344-2a2163a611ac",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Drum"
-    ],
-    "name": "2700 Twin T Drummr",
-    "description": "Twin T drum module based on early organ drum voices.",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2700-twin-t-drummr",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1_1024x1024@2x.png?v=1621264562"
-  },
-  {
-    "id": "81900856-80d2-448e-ba0a-f28f24ee8d95",
-    "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
-    "function": [
-      "Sequencer"
-    ],
-    "name": "2001 Keyboard Sequencer",
-    "description": "A Sequencer based on an arduino nano that can also act like a keyboard.",
-    "width": 40,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://store.lookmumnocomputer.com/collections/modules/products/2001-keyboard-sequencer",
-    "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/1_8f9cb584-e918-4f36-9217-5333cb15cc3d_1080x.png?v=1628268716"
-  },
-  {
-    "id": "39886925-d029-4e2c-a37f-5768f41c2ab4",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Sequencer"
-    ],
-    "name": "Evil Eye Sequencer",
-    "description": "Arduino-based sequencer with 8 steps and 2 voices.",
-    "width": 30,
-    "type": [
-      "PCB + Panel","Firmware"
-    ],
-    "link": "https://github.com/TimMJN/Arduino-Sequencer",
-    "imageLink": "https://github.com/TimMJN/Arduino-Sequencer/blob/main/arduino_sequencer_build_photos/2021-03-04%2023.36.17.jpg?raw=true"
-  },
-  {
-    "id": "d95e4bdf-4f1e-4577-8394-1a4dc9c70053",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Trigger Sequencer"
-    ],
-    "name": "Euclidean Rhythm Generator",
-    "description": "Arduino-based Euclidean rhythm sequencer with 16 steps and 4 voices.",
-    "width": 10,
-    "type": [
-      "PCB + Panel","Firmware"
-    ],
-    "link": "https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator",
-    "imageLink": "https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator/blob/main/arduino_euclidean_rhythm_generator_build_photos/2021-07-24%2020.53.27.jpg?raw=true"
-  },
-  {
-    "id": "e013bd4f-3d60-4842-aca9-d9c6efc5970c",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Clock Divider"
-    ],
-    "name": "Rotating Clock Divider",
-    "description": "Arduino-based clock divider with internal/external clocks, adjustable divisions and rotate function.",
-    "width": 10,
-    "type": [
-      "PCB + Panel","Firmware"
-    ],
-    "link": "https://github.com/TimMJN/Arduino-Clock-Divider",
-    "imageLink": "https://github.com/TimMJN/Arduino-Clock-Divider/blob/main/arduino_clock_divider_build_photos/2021-06-05%2020.59.24.jpg?raw=true"
-  },
-  {
-    "id": "dd8a3658-5969-460d-9588-c2a48522ca04",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Trigger Sequencer","Random"
-    ],
-    "name": "Telegraph",
-    "description": "Arduino-based text-to-Morse code generator.",
-    "width": 5,
-    "type": [
-      "Schematic","Firmware"
-    ],
-    "link": "https://github.com/TimMJN/Arduino-Morse-Gate-Generator",
-    "imageLink": "https://aws1.discourse-cdn.com/free1/uploads/lookmumnocomputer/original/2X/d/dbe5b818cf8db07ff8409439164f653649355f8a.jpeg"
-  },
-  {
-    "id": "0fc06811-e49d-43cc-835f-d372285b649e",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Random","Envelope Generator"
-    ],
-    "name": "Nuclear Decay",
-    "description": "Geiger counter random trigger/envelope source.",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://github.com/TimMJN/Geiger-Counter-Module",
-    "imageLink": "https://github.com/TimMJN/Geiger-Counter-Module/blob/main/geiger_counter_build_photos/2021-05-01%2019.49.57.jpg?raw=true"
-  },
-  {
-    "id": "6c1d694d-8f90-41df-963c-228e3d6a3475",
-    "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
-    "function": [
-      "Panner","Crossfader","VCA"
-    ],
-    "name": "Panner/crossfader",
-    "description": "Dual voltage-controlled panner/crossfader with internal LFOs",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/TimMJN/Voltage-controlled-panner-crossfader",
-    "imageLink": "https://github.com/TimMJN/Voltage-controlled-panner-crossfader/blob/main/voltage_controlled_panner_crossfader_build_photos/2021-09-24%2014.38.21.jpg?raw=true"
-  },  
-  {
-    "id": "f25e389e-357c-4af0-9338-93ad39bd687e",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Sequencer"
-    ],
-    "name": "8 Step Keyboard Sequencer",
-    "description": "8 step control voltage sequencer based on LMNC design, with a number of modifications",
-    "width": 40,
-    "type": [
-      "Schematic",
-      "Firmware"
-    ],
-    "link": "https://github.com/holmesrichards/8StepSequencer",
-    "imageLink": "https://github.com/holmesrichards/8StepSequencer/raw/master/Images/IMG_20200703_095937.jpg"
-  },
-  {
-    "id": "e58b45a0-137f-4c80-9f22-54b022163ce3",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Mixer"
-    ],
-    "name": "Audio Mixer",
-    "description": "3 input audio mixer",
-    "width": 7.5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/audiomixer",
-    "imageLink": "https://github.com/holmesrichards/audiomixer/raw/main/Images/IMG_6735.JPG"
-  },
-  {
-    "id": "8b4e7d1f-54c6-4168-9a93-8a0c31e31d70",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Mixer"
-    ],
-    "name": "DC Mixer",
-    "description": "3 input DC mixer",
-    "width": 7.5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/dc_mixer",
-    "imageLink": "https://github.com/holmesrichards/dc_mixer/raw/main/Images/ao_dc_mixer_panel_slide.png"
-  },
-  {
-    "id": "222f0f53-3bd3-419c-87b6-bc1482d065eb",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Interface"
-    ],
-    "name": "Expression Pedal Interface",
-    "description": "Expression pedal interface",
-    "width": 2.5,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://github.com/holmesrichards/exped",
-    "imageLink": "https://analogoutputblog.files.wordpress.com/2020/05/img_6260.jpg"
-  },
-  {
-    "id": "ee50c618-f109-44e3-a4ec-c2132e465059",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Filter"
-    ],
-    "name": "Fixed Filter Bank",
-    "description": "YuSynth Fixed Filter Bank, retuned, with board mounted sliders and jacks",
-    "width": 20,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/ffbmod",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/ffbmod/main/Images/ffb.jpg"
-  },
-  {
-    "id": "b99f521b-3ef6-40b2-b96f-6768949b6c9d",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Gate Processor"
-    ],
-    "name": "Gate Grinder",
-    "description": "Generate clocks and act on triggers and gates",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/GateGrinder",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/GateGrinder/master/Panel/Gate%20Grinder%20panel.png"
-  },
-  {
-    "id": "4a6c1fca-a36c-40c7-ad96-4f8bc9c9c338",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Distortion"
-    ],
-    "name": "Megamodule",
-    "description": "Toy voice changing megaphone bent into synth module",
-    "width": 5,
-    "type": [
-      "Protoboard"
-    ],
-    "link": "https://github.com/holmesrichards/megamodule",
-    "imageLink": "https://analogoutputblog.files.wordpress.com/2020/09/pxl_20200923_171253876.jpg"
-  },
-  {
-    "id": "dc9f4b21-aecd-477b-8dba-577455225b6b",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "MIDI"
-    ],
-    "name": "MCVI",
-    "description": "Simple MIDI to CV",
-    "width": 5,
-    "type": [
-      "PCB + Panel",
-      "Firmware"
-    ],
-    "link": "https://github.com/holmesrichards/MCVI",
-    "imageLink": "https://github.com/holmesrichards/MCVI/raw/master/Images/MCVI_panel.png"
-  },
-  {
-    "id": "a465d5fe-4e17-42cb-b6e3-4599b7548029",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "LFO"
-    ],
-    "name": "VC LFO",
-    "description": "Auxiliary board and Kosmo format front panel for MFOS VC LFO, supplying sync and power header",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/MFOS_VC_LFO",
-    "imageLink": "https://github.com/holmesrichards/MFOS_VC_LFO/raw/main/Images/mfos_vclfo_panel.png"
-  },
-  {
-    "id": "d3e50230-f7a7-4ab6-923c-2c176e9f6db7",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Interface"
-    ],
-    "name": "Mikrokosmos II",
-    "description": "Piezo element amplifier inspired by Music Thing Modular's Mikrophonie",
-    "width": 2.5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/mikrokosmosii",
-    "imageLink": "https://github.com/holmesrichards/mikrokosmosii/raw/main/Images/mikrokosmos.jpg?raw=true"
-  },
-  {
-    "id": "3fe8c809-22f9-4a46-bf47-9762e0d9965e",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Percussion",
-      "Drone"
-    ],
-    "name": "Noise Bells",
-    "description": "Percussion/drone module based on Hackaday CMOS Noise article",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/NoiseBells",
-    "imageLink": "https://github.com/holmesrichards/NoiseBells/raw/master/Images/IMG_6415.JPG"
-  },
-  {
-    "id": "a78eb67d-0b2a-482e-8917-5907e82825e9",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "Precision ADSR",
-    "description": "Kassutronics Precision ADSR with retriggering and looping modifications",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/precadsr",
-    "imageLink": "https://github.com/holmesrichards/precadsr/raw/main/Images/IMG_6753.JPG"
-  },
-  {
-    "id": "a4632e6c-9a9d-4842-b30f-bb86cc3e8002",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Quantizer"
-    ],
-    "name": "Dual Quantizer",
-    "description": "Dual CV quantizer with choice of ~72 scales",
-    "width": 10,
-    "type": [
-      "PCB + Panel",
-      "Firmware"
-    ],
-    "link": "https://github.com/holmesrichards/QuantizerModule",
-    "imageLink": "https://github.com/holmesrichards/QuantizerModule/raw/master/docs/quantizer.jpg"
-  },
-  {
-    "id": "dc858c4d-fc50-45b6-b0d8-ce195190e55c",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Utility"
-    ],
-    "name": "Attenuators",
-    "description": "3x passive attenuators",
-    "width": 5,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Attenuators",
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Attenuators/Attenuators_front.jpg"
-  },
-  {
-    "id": "eca5d3b3-4f42-4a80-9401-28e1b0f68d65",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Filter"
-    ],
-    "name": "Sallen-Key Filter",
-    "description": "Panel for Barton Musical Circuits module",
-    "width": 5,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Sallen-Key_VCF",
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Barton_Sallen-Key_VCF/Barton_Sallen-Key_VCF_front.jpg"
-  },
-  {
-    "id": "005c6d20-70c9-4b28-9079-40a3e36fce41",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Noise"
-    ],
-    "name": "Noise Cornucopia",
-    "description": "Panel for MFOS module",
-    "width": 5,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_Noise_Cornucopia",
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_Noise_Cornucopia/IMG_6509.JPG"
-  },
-  {
-    "id": "824332f4-67af-4da2-b7e5-05b2c44f8a72",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "VCO"
-    ],
-    "name": "VCO",
-    "description": "Panel for MFOS module",
-    "width": 10,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCO",
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCO/IMG_6588.JPG"
-  },
-  {
-    "id": "c836d776-db2a-4956-a4bc-2f2320cddf58",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "VCA"
-    ],
-    "name": "Dual Log/Lin VCA",
-    "description": "Panel for MFOS module",
-    "width": 7.5,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCA",
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/MFOS_VCA/IMG_6671.JPG"
-  },
-  {
-    "id": "0d6e5bfb-62ac-4ddb-a225-cc5ee88c153e",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Wave Shaper"
-    ],
-    "name": "VC 4046 Wave Shaper",
-    "description": "Barton 4046 wave shaper modified to add voltage control and variable gain",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/WaveShaper",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/WaveShaper/master/Images/front.jpg"
-  },
-  {
-    "id": "f1252796-1ffa-4e1f-a78b-d85e3ff19256",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "CV Generator"
-    ],
-    "name": "Neuron/Difference Rectifier",
-    "description": "Panel for NLC module",
-    "width": 5,
-    "type": [
-      "Panel"
-    ],
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/NLC_Neuron",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/frontpanels/main/NLC_Neuron/front.jpg"
-  },
-  {
-    "id": "3ee58138-d194-4a5f-9dde-a7651f5ef312",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Interface"
-    ],
-    "name": "Joystick",
-    "description": "Joystick CV controller with adjustable ranges and offsets",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/holmesrichards/joystick",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/joystick/main/Images/front.jpg"
-  },
-  {
-    "id": "401712b8-85ba-4e84-9893-e66fdea50aa6",
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Sequencer"
-    ],
-    "name": "G.E.A.R. Sequencer",
-    "description": "Voltage controlled trigger sequencer with gap, Euclidean, ADC, and random algorithms",
-    "width": 10,
-    "type": [
-      "PCB + Panel",
-      "Firmware"
-    ],
-    "link": "https://github.com/holmesrichards/gearseq",
-    "imageLink": "https://raw.githubusercontent.com/holmesrichards/gearseq/main/Images/front.jpg"
-  },
-  {
-    "id": "6dd5cd42-1ba6-4ac3-9e0c-11e4b18a76c2",
-    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
-    "function": [
-      "CV Modulation"
-    ],
-    "name": "Kosmic Superspreader",
-    "description": "CV processing module for detuning oscillators.",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/sonosus/kosmicsuperspreader",
-    "imageLink": "https://github.com/Sonosus/KosmicSuperspreader/blob/main/Docs/superspreader.jfif?raw=true"
-  },
-  {
-    "id": "33a9b751-a454-469e-a92f-995f391f227d",
-    "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
-    "function": [
-      "Noise"
-    ],
-    "name": "Noise Generator",
-    "description": "Super simple noise generator with the Electric Druid Noise2 chip.",
-    "type": [
-      "PCB"
-    ],
-    "link": "https://github.com/sonosus/noisegen",
-    "imageLink": "https://github.com/Sonosus/NoiseGen/blob/main/Docs/assembled.jpg?raw=true"
-  },
-  {
-    "id": "b60b6ad6-ee37-4c75-be95-ea805350955a",
-    "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
-    "function": [
-      "Filter"
-    ],
-    "name": "Transistor Ladder Filter",
-    "description": "A classic moog transistor ladder filter based on a Kassutronics design.",
-    "type": [
-      "PCB + Panel"
-    ],
-    "width": 10,
-    "link": "https://github.com/sebastianbeyer/KOSMO_ladderfilter",
-    "imageLink": "https://raw.githubusercontent.com/sebastianbeyer/KOSMO_ladderfilter/master/images/ready.jpg"
-  },
-  {
-    "id": "f3010240-d6ff-44db-8cdf-ed2a9d5d8804",
-    "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
-    "function": [
-      "MIDI"
-    ],
-    "name": "MIDI to Gate",
-    "description": "Simple Midi to gate module with 12 gates.",
-    "type": [
-      "PCB + Panel"
-    ],
-    "width": 7.5,
-    "link": "https://github.com/sebastianbeyer/SO_midi2gate",
-    "imageLink": "https://github.com/sebastianbeyer/SO_midi2gate/blob/main/images/midi2gate_photo1.jpg?raw=true"
-  },
-  {
-    "id": "fd3680ce-eb00-4758-980a-07ed26b877b2",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Gate Processor"
-    ],
-    "name": "Rotary Dial Phone Gate",
-    "description": "A manual and rotary dial phone gate module (0 to 5 V out with 2 outputs).",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/16/66-synthetiseur-modulaire-diy-manual-dial-phone-gate/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/09/manual-and-dial-phone-gate-trigger-sound-bender-1.jpg"
-  },
-  {
-    "id": "c4945ee6-6bf7-469a-a7ea-005f76fa6e3b",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Drum"
-    ],
-    "name": "Twin T Kick",
-    "description": "Kosmo format version of Krakenpine Twin T Kick",
-    "width": 5,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/01/24/25-bis-synthetiseur-modulaire-diy-twin-t-kick-drum/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/01/twin-t-kick-sound-bender-1.jpg"
-  },
-  {
-    "id": "129dd6bb-8f1d-4958-9163-67d9a464c20b",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Clock Divider"
-    ],
-    "name": "Clock Divider",
-    "description": "Kosmo format version of Niklas R\u00f6nnberg Clock Pulse Divider",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/09/17/14-synthetiseur-modulaire-diy-clock-divider/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/clock-divider-module-sound-bender-1.jpg"
-  },
-  {
-    "id": "b9beb9b6-618b-4ec7-b6c7-f2fd587c3969",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "LFO"
-    ],
-    "name": "Simple LFO",
-    "description": "Kosmo format version of David Haillant simple LFO",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/09/16/13-synthetiseur-modulaire-diy-lfo/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/lfo-module-sound-bender-1.jpg"
-  },
-  {
-    "id": "4f925b13-b3d1-407d-9941-dfcee90b4db5",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "Simple AD/AR (555)",
-    "description": "Kosmo format version of PHOBoSapiens inc. Simple ADAR envelope generator with 555 chip",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/09/18/15-synthetiseur-modulaire-diy-ad-ar-envellope-generator/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/09/ad-ar-module-sound-bender-1.jpg"
-  },
-  {
-    "id": "d84fff2f-3849-4313-b197-b5c94c03f9d2",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Drum"
-    ],
-    "name": "Snare / Tom",
-    "description": "Kosmo format version of Unauthorised Service Snare Tom module",
-    "width": 5,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/12/21/23-synthetiseur-modulaire-diy-snare-tom/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/snare-tom-module-sound-bender-1.jpg"
-  },
-  {
-    "id": "db4eaec0-d090-4fa6-bd5a-adbb9b2d5a3e",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Drum"
-    ],
-    "name": "Bass Drum ++",
-    "description": "Kosmo format version of Thomas Henry Bass Drum ++ module",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/12/22/25-synthetiseur-modulaire-diy-bass-drum/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/bass-drum-module-sound-bender-1-1.jpg"
-  },
-  {
-    "id": "4c590d1f-54e5-4f61-9ff9-3e959c0e1bb1",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Distortion"
-    ],
-    "name": "Dual Distortion",
-    "description": "Kosmo format version of Niklas R\u00f6nnberg Dual Distortion module",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/12/22/27-synthetiseur-modulaire-diy-distortion-unit/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/dist-unit-module-sound-bender-1.jpg"
-  },
-  {
-    "id": "b7a8d008-c50b-4acd-b538-a5a9591f5a56",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Gate Processor"
-    ],
-    "name": "Logic Gate",
-    "description": "Kosmo format version of Ken Stone Logic Gate module",
-    "width": 10,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/12/25/33-synthetiseur-modulaire-diy-logic-gate/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/logic-gate-sound-bender-1.jpg"
-  },
-  {
-    "id": "213c44a5-4d9f-42ae-8bc6-2d3a7921e92b",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Mixer"
-    ],
-    "name": "Mixer",
-    "description": "Kosmo format version of Niklas R\u00f6nnberg Mixer module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2020/07/14/47-synthetiseur-modulaire-diy-mixer-selecter-3/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/mixer-selecter-sound-bender-1.jpg?w=1352"
-  },
-  {
-    "id": "dbf95161-23db-4858-8e2b-1218f5c7c13c",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Interface"
-    ],
-    "name": "Dual Stomp Box Adapter",
-    "description": "Kosmo format version of AI Synthesis module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2020/07/15/48-synthetiseur-modulaire-diy-dual-stomp-box-adaptater/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/dual-stomp-box-adaptater-sound-bender-2.jpg?w=1352"
-  },
-  {
-    "id": "9712df9f-24bc-42f0-a3cf-3ea593b0ecde",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Wave Shaper"
-    ],
-    "name": "Wave Shaper",
-    "description": "Kosmo format version of Barton Musical Circuits module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2020/07/23/56-synthetiseur-modulaire-diy-wave-shaper/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/wave-shaper-sound-bender-1.jpg?w=1352"
-  },
-  {
-    "id": "6733e63d-72d9-42eb-991d-eb1e0302d92c",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Sub Oscillator"
-    ],
-    "name": "Sub Oscillator",
-    "description": "Kosmo format version of Carmello Azzarello module",
-    "width": 5,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/10/60-synthetiseur-modulaire-diy-sub-oscillator/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/sub-oscillator-sound-bender-1.jpg?w=1352"
-  },
-  {
-    "id": "fe229930-e91b-4194-8ca5-3964c8a8f86b",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Noise"
-    ],
-    "name": "Noise 5",
-    "description": "Eddy Bergman version of MFOS module",
-    "width": 5,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/11/61-synthetiseur-modulaire-diy-noise-x5/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/noise-sound-bender-1.jpg?w=1352"
-  },
-  {
-    "id": "0b022291-be71-49e3-b1cd-f1858060b193",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "Envelope Follower",
-    "description": "Eddy Bergman version of ARP2600",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/13/63-synthetiseur-modulaire-diy-2600-arp-envelope-follower/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/envelope-follower-sound-bender-1.jpg"
-  },
-  {
-    "id": "19bab7ed-0bdc-4091-a4c8-11bf5f1a81aa",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Effect"
-    ],
-    "name": "DSP FX 100",
-    "description": "Kosmo version with this circuit",
-    "width": 10,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/14/64-synthetiseur-modulaire-diy-dsp-fx-100/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/dspfx100-sound-bender-1.jpg"
-  },
-  {
-    "id": "36e41c66-bb93-48f5-905c-2f9647069c0e",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Filter"
-    ],
-    "name": "Steiner/Parker VCF",
-    "description": "Kosmo format of Yusynth design from Eddy Bergman",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/17/67-synthetiseur-modulaire-diy-steiner-parker-diode-filter/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/steiner-parker-vcf-sound-bender-1.jpg"
-  },
-  {
-    "id": "38359cf1-67f5-43fa-a690-1adcbb3968a4",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "LFO"
-    ],
-    "name": "Triple LFO",
-    "description": "Kosmo version and multiplication of Niklas R\u00f6nnberg Simple LFO",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/22/70-synthetiseur-modulaire-diy-triple-lfo/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/triple-lfo-sound-bender-1.jpg"
-  },
-  {
-    "id": "f5aac405-c70a-44d4-abc3-d910a50ed8d0",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Utility"
-    ],
-    "name": "Dual CV Joystick/Wheel",
-    "description": "Mix of CV Joystick and CV Wheel schematics from Niklas R\u00f6nnberg",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/24/71-synthetiseur-modulaire-diy-dual-cv-joystick-wheel/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/cv-joystick-wheel-sound-bender-1.jpg"
-  },
-  {
-    "id": "a310c6c7-403c-4b69-93fe-70bcaa2e6723",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Multiple"
-    ],
-    "name": "Buffered Multiple",
-    "description": "Kosmo format of a simple buffered multiple",
-    "width": 5,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/04/01/75-synthetiseur-modulaire-diy-buffered-multiple/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/buffered-multiple-sound-bender-1.jpg"
-  },
-  {
-    "id": "a69f0f62-55e4-4f6e-ab23-38af4aa42c95",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "CV Modulation"
-    ],
-    "name": "Dual CV Glide",
-    "description": "Simple Dual CV Glide module",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2020/07/20/53-synthetiseur-modulaire-diy-dual-cv-glide/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2020/07/cv-glide-sound-bender-1.jpg"
-  },
-  {
-    "id": "e1718ae6-383b-4471-8517-6ceb291f8854",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Trigger Sequencer"
-    ],
-    "name": "Big Button",
-    "description": "Trigger sequencer by LMNC in module format",
-    "width": 15,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2019/12/23/28-synthetiseur-modulaire-diy-drum-trigger-sequencer/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2019/12/drum-trigger-sequencer-module-sound-bender-1.jpg?w=1024"
-  },
-  {
-    "id": "2c1a86e9-6189-4306-915b-f4fa1fbf4cdf",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Mixer",
-      "Crossfader"
-    ],
-    "name": "Mixer Crossfader",
-    "description": "Mix of 2 schematics, Simple Mixer  from LMNC & CrossFader from La Roue Tourne",
-    "width": 10,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/03/18/68-synthetiseur-modulaire-diy-mixer-cross-fader/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/03/mixer-cross-fader-sound-bender-1.jpg"
-  },
-  {
-    "id": "729ff389-aaf4-4123-90f3-001f31a9e827",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Wave Shaper"
-    ],
-    "name": "Multi PWM",
-    "description": "Kosmo format version of Barton Musical Circuits module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/17/79-synthetiseur-modulaire-diy-multi-pwm/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/06-multi-pwm-sound-bender-1.jpg?w=885"
-  },
-  {
-    "id": "7fbd8b73-aff4-4d6e-a54a-7bb2554746ed",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Filter"
-    ],
-    "name": "Diode ladder filter",
-    "description": "Kosmo adaptation of the Moritz Klein filter",
-    "width": 10,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/18/80-synthetiseur-modulaire-diy-moritz-klein-diode-ladder-vcf/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/07-klein-diode-vcf-sound-bender-1.jpg?w=768&h=865"
-  },
-  {
-    "id": "6f53c158-81f4-49a3-8fc3-f15cdee9cd76",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Ring Modulator"
-    ],
-    "name": "Active Real Ring Modulator",
-    "description": "Kosmo version of the CGS67 from Ken Stone",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/27/85-synthetiseur-modulaire-diy-active-real-ring-modulator/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/08-active-real-ring-modulator-sound-bender-1.jpg?w=768&h=887"
-  },
-  {
-    "id": "929213c1-a0f2-4b81-bb80-295750fff175",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "VCA"
-    ],
-    "name": "Dual VCA",
-    "description": "Kosmo format version of the dual VCA (with CA3080) from Niklas R\u00f6nneberg",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/19/81-synthetiseur-modulaire-diy-dual-vca/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/12-dual-vca-sound-bender-1.jpg?w=768&h=834"
-  },
-  {
-    "id": "48639e1f-5a9f-4e00-ac5a-2be8c841d082",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "CV Modulation"
-    ],
-    "name": "Dual Sloth Chaos",
-    "description": "Kosmo format version of the Non Linear Circuits module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/23/82-synthetiseur-modulaire-diy-dual-sloth-chaos-lfo/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/11-dual-sloth-chaos-lfo-sound-bender-1.jpg?w=768&h=809"
-  },
-  {
-    "id": "06029c57-4e18-49b8-a44e-30dc0449218c",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "Bounce Bounce Bounce",
-    "description": "Stripboard layout of the Look Mum No Computer module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/25/83-synthetiseur-modulaire-diy-bounce-bounce-bounce/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/10-bounce-sound-bender-1.jpg?w=768&h=785"
-  },
-  {
-    "id": "0e050d28-2e0c-4a56-b8a1-52fa2492f6c4",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "VCO"
-    ],
-    "name": "VCDO FM",
-    "description": "Kosmo format of the Hagiwo module",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/29/86-synthetiseur-modulaire-diy-vcdo-fm-arduino/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/13-vcdo-fm-sound-bender-1.jpg?w=747&h=1024"
-  },
-  {
-    "id": "66503e6a-72e3-4375-aa95-87b753e49d19",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "VCO"
-    ],
-    "name": "VCDO Chord",
-    "description": "Kosmo format of the Hagiwo module ",
-    "width": 5,
-    "type": [
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/10/31/87-synthetiseur-modulaire-diy-vcdo-chord-arduino/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/14-vcdo-chord-sound-bender-1.jpg?w=768&h=964"
-  },
-  {
-    "id": "3e6f37cd-dfad-4c49-b175-c826d784780c",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Wave Shaper"
-    ],
-    "name": "Timbre",
-    "description": "Kosmo format version of the Non Linear Circuits module",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/11/02/88-synthetiseur-modulaire-diy-timbre/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/15-timbre-sound-bender-1.jpg?w=768&h=819"
-  },
-  {
-    "id": "4ed58aff-35f3-4c0f-8810-9216db139c23",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Sequencer"
-    ],
-    "name": "Baby 8 ",
-    "description": "Kosmo format of the Baby 8 sequencer (with reset and mute on each steps + gate out)",
-    "width": 10,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/11/15/95-synthetiseur-modulaire-diy-baby-8-sequencer/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/18-baby-8-sequencer-sound-bender-1.jpg?w=768&h=819"
-  },
-  {
-    "id": "4e0410ac-25e7-492d-a055-5ab5ac18340c",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Utility"
-    ],
-    "name": "Ducking side chain",
-    "description": "Kosmo format of the Juanito Moore module",
-    "width": 5,
-    "type": [
-      "Stripboard"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/11/07/92-synthetiseur-modulaire-diy-ducking-side-chain-module/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/20-ducking-side-chain-sound-bender-1.jpg?w=768&h=1018"
-  },
-  {
-    "id": "5396bb80-d2a7-4036-a636-b03689b57a2a",
-    "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
-    "function": [
-      "Delay"
-    ],
-    "name": "Dual CV Gate Delay",
-    "description": "Kosmo format of the Balter Gate Delay from Non Linear Circuits",
-    "width": 10,
-    "type": [
-      "Stripboard",
-      "Schematic"
-    ],
-    "link": "https://soundbender36.wordpress.com/2021/11/06/91-synthetiseur-modulaire-diy-dual-balter-cv-gate-delay/",
-    "imageLink": "https://soundbender36.files.wordpress.com/2021/10/21-dual-balter-gate-delay-sound-bender-1.jpg?w=768&h=885"
-  },
-  {
-    "id": "e57b1658-210a-4b7f-9fce-626689804454",
-    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
-    "function": [
-      "MIDI","Utility","CV Modulation","Gate Processor"
-    ],
-    "name": "Multitool",
-    "description": "Development platform with various MIDI/CV/gate input and output options",
-    "width": 10,
-    "type": [
-      "PCB + Panel",
-      "Firmware"
-    ],
-    "link": "https://github.com/polykit/kosmo-multitool",
-    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-multitool/master/kosmo-multitool-modulargrid-small.jpg"
-  },
-  {
-    "id": "1661b964-7173-4253-81d9-7f2756eb0360",
-    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
-    "function": [
-      "CV Modulation","Noise"
-    ],
-    "name": "Sample And Hold",
-    "description": "Simple sample and hold / noise module",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/polykit/kosmo-sample-and-hold",
-    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-sample-and-hold/master/kosmo-sample-and-hold-modulargrid-small.jpg"
-  },
-  {
-    "id": "805f5446-0ed7-40b3-8d6d-209ebf3eebed",
-    "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
-    "function": [
-      "Delay","Effect","Distortion"
-    ],
-    "name": "Spring Reverb Driver",
-    "description": "Driver module for a classy spring reverb tank",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/polykit/kosmo-spring-reverb-driver",
-    "imageLink": "https://raw.githubusercontent.com/polykit/kosmo-spring-reverb-driver/master/kosmo-spring-reverb-driver-modulargrid-small.jpg"
-  },
-  {
-    "id": "cdae4ec1-8133-445f-a5bd-c6b1c8871406",
-    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
-    "function": [
-      "Mixer"
-    ],
-    "name": "Mix",
-    "description": "Five channel mixer",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/DavesKosmoModules/Mix",
-    "imageLink": "https://github.com/DavesKosmoModules/Mix/blob/main/Docs/Mix-Photo.png?raw=true"
-  },
-  {
-    "id": "58827f94-bf39-4a4b-8048-34fba68e0a75",
-    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
-    "function": [
-      "Multiple"
-    ],
-    "name": "Buren",
-    "description": "3 x 3 or 1 x 9 Mult",
-    "width": 5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/DavesKosmoModules/Buren-Mult",
-    "imageLink": "https://github.com/DavesKosmoModules/Buren-Mult/blob/main/Docs/Buren-Mult-Photo.png?raw=true"
-  },
-  {
-    "id": "ab04f445-aa9f-4824-92de-20be4e85e737",
-    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
-    "function": [
-      "Noise"
-    ],
-    "name": "Rain",
-    "description": "Reverse Transistor Noise Generator",
-    "width": 2.5,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/DavesKosmoModules/Rain-Noise",
-    "imageLink": "https://github.com/DavesKosmoModules/Rain-Noise/blob/main/Docs/Rain-Photo.png?raw=true"
-  },
-  {
-    "id": "79829892-818a-4fb6-96e7-14a972cb88d6",
-    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
-    "function": [
-      "Envelope Generator"
-    ],
-    "name": "Farini",
-    "description": "Voltage Controlled Envelope Generator",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://github.com/DavesKosmoModules/Farini-VC-ADSR",
-    "imageLink": "https://github.com/DavesKosmoModules/Farini-VC-ADSR/blob/main/Docs/Farini-Photo.png?raw=true"
-  },
-  {
-    "id": "507df447-1a9b-45ec-b620-f40020c6d683",
-    "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
-    "function": [
-      "LFO"
-    ],
-    "name": "Brenn",
-    "description": "Quad slow LFO",
-    "width": 10,
-    "type": [
-      "PCB + Panel"
-    ],
-    "link": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO",
-    "imageLink": "https://github.com/DavesKosmoModules/Brenn-Slow-LFO/blob/main/Docs/Brenn-Photo.png?raw=true"
-  },
-  {
-    "makerId": "0bbd976e-3421-4a9c-b400-a7612e1417ec",
-    "function": [
-      "Multiple"
-    ],
-    "description": "A buffered multiple with 4 channels and 3 output for each",
-    "width": 5,
-    "imageLink": "https://www.tamasgal.com/modular_synth/buffered_multiple_4x3/buffered_multiple_4x3_panel.jpeg",
-    "link": "https://www.tamasgal.com/modular_synth/buffered_multiple_4x3/",
-    "type": [
-      "Protoboard + Panel"
-    ],
-    "id": "85ae4d56-c0c6-41d6-84da-528fe6e4a457",
-    "name": "Buffered Multiple 4x3"
-},
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Attenuator"
-    ],
-    "description": "Three attenuverters with individual, summed, and inverted summed outputs",
-    "width": 7.5,
-    "imageLink": "https://github.com/holmesrichards/attenuverters/raw/main/Images/panel.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/attenuverters",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "0ddb36b3-a80b-4765-a423-3e744c5fcb1b",
-    "name": "Attenuverters"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "External"
-    ],
-    "description": "Modification of Barton module to convert infrared light into control voltage",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/irinput/raw/main/Images/irinput_front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/irinput",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "d0ca422c-184a-42f8-8a46-02f94a8d2b0a",
-    "name": "Infrared Input"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "CV Modulation"
-    ],
-    "description": "All pass filter for doing voltage controlled morphing of low frequency waveforms",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/vcapf/blob/main/Images/front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/vcapf",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "11575b41-34ba-4dd6-afa6-75ab198f51b4",
-    "name": "VC APF"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Envelope Follower"
-    ],
-    "description": "Envelope Follower based on ARP 2600, with mic and instrument preamplifiers",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/arpenvfol/raw/main/Images/front_view.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/arpenvfol",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "f1517f6f-4231-4872-854f-f3f3526b65a4",
-    "name": "Envelope Follower"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "LFO"
-    ],
-    "description": "Dual shape variable low frequency oscillators, based on a Kassutronics design",
-    "width": 7.5,
-    "imageLink": "https://github.com/holmesrichards/kdlfo/raw/main/Images/front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/kdlfo",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "446407c5-ab1a-415d-9a92-14a1111960ca",
-    "name": "Dual LFO"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Ring Modulator"
-    ],
-    "description": "Old school ring modulator with active input and output stages, from Ken Stone's Active Real Ring Modulator circuit",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/arrm/raw/main/Images/front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/arrm",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "c7659a0c-3664-46fc-a3a4-bcacdeb2c110",
-    "name": "Ring modulator"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Sample and Hold"
-    ],
-    "description": "Sample and hold / Track and hold from a design by Rene Schmitz",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/yash/raw/main/Images/back.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/yash",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "783c7332-051c-4920-8d10-2e9e21c54f68",
-    "name": "YASH"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Waveshaper"
-    ],
-    "description": "Kosmo konversion of Barton Full Wave Dual Rectifiers",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/Barton_Dual_Rectifiers/Images/front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Dual_Rectifiers",
-    "type": [
-      "Panel"
-    ],
-    "id": "12843036-bbef-4e16-86db-65aef18e3da1",
-    "name": "Dual Rectifiers"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Comparator"
-    ],
-    "description": "Kosmo konversion of YuSynth Comparators",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/frontpanels/raw/main/YuSynth_Comparators/Images/front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/frontpanels/tree/main/YuSynth_Comparators",
-    "type": [
-      "Panel"
-    ],
-    "id": "898eb344-71fc-4092-baa3-51ae6f360d64",
-    "name": "Comparators"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Oscillator"
-    ],
-    "description": "Full featured 3340 based VCO",
-    "width": 10,
-    "imageLink": "https://github.com/holmesrichards/herovco/raw/main/Images/herovco.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/herovco",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "44ca4119-55ac-4f4f-b962-04713ff1ba33",
-    "name": "Hero VCO"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Oscillator"
-    ],
-    "description": "Subsidiary 3340 based VCO",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/sidekickvco/raw/main/Images/sidekickvco.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/sidekickvco",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "8c8c37bf-4a11-4fc1-a8ef-32d0bcc4a839",
-    "name": "Sidekick VCO"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Clock Generator"
-    ],
-    "description": "Microcontroller based clock synth module",
-    "width": 5,
-    "imageLink": "https://github.com/holmesrichards/clock/Images/clock_front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/clock",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "43e103e9-aa08-4fa8-ac65-28b2efbb65ea",
-    "name": "Clock"
-  },
-{
-    "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
-    "function": [
-      "Utility"
-    ],
-    "description": "Voltage processor with summers and lag",
-    "width": 7.5,
-    "imageLink": "https://github.com/holmesrichards/voltproc/blob/main/Images/voltproc_front.jpg?raw=true",
-    "link": "https://github.com/holmesrichards/voltproc",
-    "type": [
-      "PCB + Panel"
-    ],
-    "id": "170a3a0d-d5b0-439d-be99-ff4ab65d66e1",
-    "name": "Voltage Processor"
-  }
+    {
+        "id": "5b93d5d2-5af1-4b2c-be3c-f143479a1edd",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "VCO"
+        ],
+        "name": "1222 Performance VCO",
+        "description": "A VCO based on the CEM3340 chip.",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1112-performance-filter",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/5b93d5d2-5af1-4b2c-be3c-f143479a1edd.jpg"
+    },
+    {
+        "id": "24c381ea-ba44-4c61-86a4-c3917e42e946",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Filter"
+        ],
+        "name": "1113 Performance Filter",
+        "description": "MS20 style filter based on the René Schmitz design.",
+        "width": 20,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1113-kosmo-2-0-performance-filter",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/24c381ea-ba44-4c61-86a4-c3917e42e946.jpg"
+    },
+    {
+        "id": "29e9f25e-4b13-40e0-8c59-cba26db6f408",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Delay"
+        ],
+        "name": "2399 Triple Splashback Delay",
+        "description": "Delay module based on the PT2399 chip.",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/2399-triple-splashback-delay",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/29e9f25e-4b13-40e0-8c59-cba26db6f408.png"
+    },
+    {
+        "id": "5606ebaa-39d4-4ecc-8083-b86c5fdc74af",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Mixer"
+        ],
+        "name": "1163 Mixer",
+        "description": "6 channel mixer suitable for audio or cv.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1163-mini-mixer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/5606ebaa-39d4-4ecc-8083-b86c5fdc74af.jpg"
+    },
+    {
+        "id": "d97af3bd-bc5b-46c3-b2c7-5ba8d9af832a",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "VCO"
+        ],
+        "name": "2000 Megadrone 10 Oscillator",
+        "description": "A bank of 10 oscillators from the Megadrone.",
+        "width": 40,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/2000-megadrone-10-oscillator-panel-pcb-set",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/d97af3bd-bc5b-46c3-b2c7-5ba8d9af832a.png"
+    },
+    {
+        "id": "8d7a73cf-59e4-4044-9c15-95097ffcb2fc",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "VCA"
+        ],
+        "name": "1183 Quad VCA Mixer",
+        "description": "Quad VCA module designed around 2 AS3360 chips.",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1184-quad-vca-mixer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/8d7a73cf-59e4-4044-9c15-95097ffcb2fc.png"
+    },
+    {
+        "id": "dbf4b9db-2ba5-4813-b076-048d1e90067c",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "LFO"
+        ],
+        "name": "1145 VCLFO",
+        "description": "VCLFO based on the VCLFO10 chip.",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Chipset"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1145-kosmo-vclfo-lfo",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/dbf4b9db-2ba5-4813-b076-048d1e90067c.jpg"
+    },
+    {
+        "id": "2e729b12-018c-43e3-a698-666eea61756d",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Filter"
+        ],
+        "name": "1114 Filter Grr",
+        "description": "A new filter that is 'very odd.'",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1114-filter-grr",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/2e729b12-018c-43e3-a698-666eea61756d.png"
+    },
+    {
+        "id": "586c881d-722a-4fe8-807f-7cd25d90a708",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Multiple"
+        ],
+        "name": "1161 Dual Buffered Multiple",
+        "description": "Designed to split and buffer signal to make sure the juice doesn't get sucked out of the signal plugged in.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https: //store.lookmumnocomputer.com/collections/modules/products/1161-dual-buffered-multiple",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/586c881d-722a-4fe8-807f-7cd25d90a708.png"
+    },
+    {
+        "id": "ebb981f1-8537-43e2-867e-ac08861fafde",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Distortion"
+        ],
+        "name": "4710 Safety Valve",
+        "description": "A valve based distortion module.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/4710-safety-valve-panel-pcb-set",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/ebb981f1-8537-43e2-867e-ac08861fafde.png"
+    },
+    {
+        "id": "31dc99e5-261c-444b-9bb8-95aed002c73d",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Envelope Generator",
+            "LFO"
+        ],
+        "name": "1153 Bounce....",
+        "description": "A bouncing ball simulator that has a lot more uses than you would expect.",
+        "width": 5,
+        "type": [
+            "PCB + Panel",
+            "Chipset"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1153-bounce-bounce-bounce-bounce-bounce-bounce-bounce",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/31dc99e5-261c-444b-9bb8-95aed002c73d.png"
+    },
+    {
+        "id": "797a10f0-d634-43f9-8d86-1c9950fbdec5",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Synthesiser Voice"
+        ],
+        "name": "Fart Box",
+        "description": "Limited edition white pcb to build a Fart Box.",
+        "width": 20,
+        "type": [
+            "PCB"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/fart-box-pcb-limited-edition-white",
+        "imageLink": "https://cdn.shopify.com/s/files/1/0253/6040/0430/products/Fartbox1_1024x1024@2x.png?v=1590747567"
+    },
+    {
+        "id": "f0cea961-55b5-4dee-a8f9-56d0595c8bd4",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "MIDI"
+        ],
+        "name": "1007 MIDI-CV",
+        "description": "A MIDI to CV converter module based on the midimuso chip.",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Chipset"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1007-midimuso-midi-cv-module-pcb-panel-chipset",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f0cea961-55b5-4dee-a8f9-56d0595c8bd4.png"
+    },
+    {
+        "id": "4dc5d3f9-3d2f-4e6f-afff-2cb5c514c49e",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "1157 Mini ADSR",
+        "description": "ADSR Envelope Generator based on the Electric Druid ENVGEN8 chip.",
+        "width": 5,
+        "type": [
+            "PCB + Panel",
+            "Chipset"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1157-mini-adsr-chipset",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4dc5d3f9-3d2f-4e6f-afff-2cb5c514c49e.png"
+    },
+    {
+        "id": "064761c4-fcad-47ca-b089-c6ac4cc041b4",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Attenuverter"
+        ],
+        "name": "1171 O.B.A.",
+        "description": "Offset, Boost, Attenuvert.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1171-o-b-a",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/064761c4-fcad-47ca-b089-c6ac4cc041b4.png"
+    },
+    {
+        "id": "96431358-3ccb-4dca-93a6-414a8685862b",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "VCA"
+        ],
+        "name": "1181 Dual VCA",
+        "description": "Two channel VCA based on the AS3360 chip.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/1181-dual-vca",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/96431358-3ccb-4dca-93a6-414a8685862b.png"
+    },
+    {
+        "id": "1e6041d1-21e9-44f1-b344-2a2163a611ac",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Drum"
+        ],
+        "name": "2700 Twin T Drummr",
+        "description": "Twin T drum module based on early organ drum voices.",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/2700-twin-t-drummr",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/1e6041d1-21e9-44f1-b344-2a2163a611ac.png"
+    },
+    {
+        "id": "81900856-80d2-448e-ba0a-f28f24ee8d95",
+        "makerId": "a0923cd4-71ff-4603-9c47-61a750f7e1a6",
+        "function": [
+            "Sequencer"
+        ],
+        "name": "2001 Keyboard Sequencer",
+        "description": "A Sequencer based on an arduino nano that can also act like a keyboard.",
+        "width": 40,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://store.lookmumnocomputer.com/collections/modules/products/2001-keyboard-sequencer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/81900856-80d2-448e-ba0a-f28f24ee8d95.png"
+    },
+    {
+        "id": "39886925-d029-4e2c-a37f-5768f41c2ab4",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Sequencer"
+        ],
+        "name": "Evil Eye Sequencer",
+        "description": "Arduino-based sequencer with 8 steps and 2 voices.",
+        "width": 30,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/TimMJN/Arduino-Sequencer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/39886925-d029-4e2c-a37f-5768f41c2ab4.jpg"
+    },
+    {
+        "id": "d95e4bdf-4f1e-4577-8394-1a4dc9c70053",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Trigger Sequencer"
+        ],
+        "name": "Euclidean Rhythm Generator",
+        "description": "Arduino-based Euclidean rhythm sequencer with 16 steps and 4 voices.",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/d95e4bdf-4f1e-4577-8394-1a4dc9c70053.jpg"
+    },
+    {
+        "id": "e013bd4f-3d60-4842-aca9-d9c6efc5970c",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Clock Divider"
+        ],
+        "name": "Rotating Clock Divider",
+        "description": "Arduino-based clock divider with internal/external clocks, adjustable divisions and rotate function.",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/TimMJN/Arduino-Clock-Divider",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/e013bd4f-3d60-4842-aca9-d9c6efc5970c.jpg"
+    },
+    {
+        "id": "dd8a3658-5969-460d-9588-c2a48522ca04",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Trigger Sequencer",
+            "Random"
+        ],
+        "name": "Telegraph",
+        "description": "Arduino-based text-to-Morse code generator.",
+        "width": 5,
+        "type": [
+            "Schematic",
+            "Firmware"
+        ],
+        "link": "https://github.com/TimMJN/Arduino-Morse-Gate-Generator",
+        "imageLink": "https://aws1.discourse-cdn.com/free1/uploads/lookmumnocomputer/original/2X/d/dbe5b818cf8db07ff8409439164f653649355f8a.jpeg"
+    },
+    {
+        "id": "0fc06811-e49d-43cc-835f-d372285b649e",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Random",
+            "Envelope Generator"
+        ],
+        "name": "Nuclear Decay",
+        "description": "Geiger counter random trigger/envelope source.",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://github.com/TimMJN/Geiger-Counter-Module",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/0fc06811-e49d-43cc-835f-d372285b649e.jpg"
+    },
+    {
+        "id": "6c1d694d-8f90-41df-963c-228e3d6a3475",
+        "makerId": "7b536185-7532-4af9-bcde-4b5595616377",
+        "function": [
+            "Panner",
+            "Crossfader",
+            "VCA"
+        ],
+        "name": "Panner/crossfader",
+        "description": "Dual voltage-controlled panner/crossfader with internal LFOs",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/TimMJN/Voltage-controlled-panner-crossfader",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/6c1d694d-8f90-41df-963c-228e3d6a3475.jpg"
+    },
+    {
+        "id": "f25e389e-357c-4af0-9338-93ad39bd687e",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Sequencer"
+        ],
+        "name": "8 Step Keyboard Sequencer",
+        "description": "8 step control voltage sequencer based on LMNC design, with a number of modifications",
+        "width": 40,
+        "type": [
+            "Schematic",
+            "Firmware"
+        ],
+        "link": "https://github.com/holmesrichards/8StepSequencer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f25e389e-357c-4af0-9338-93ad39bd687e.jpg"
+    },
+    {
+        "id": "e58b45a0-137f-4c80-9f22-54b022163ce3",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Mixer"
+        ],
+        "name": "Audio Mixer",
+        "description": "3 input audio mixer",
+        "width": 7.5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/audiomixer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/e58b45a0-137f-4c80-9f22-54b022163ce3.JPG"
+    },
+    {
+        "id": "8b4e7d1f-54c6-4168-9a93-8a0c31e31d70",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Mixer"
+        ],
+        "name": "DC Mixer",
+        "description": "3 input DC mixer",
+        "width": 7.5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/dc_mixer",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/8b4e7d1f-54c6-4168-9a93-8a0c31e31d70.png"
+    },
+    {
+        "id": "222f0f53-3bd3-419c-87b6-bc1482d065eb",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Interface"
+        ],
+        "name": "Expression Pedal Interface",
+        "description": "Expression pedal interface",
+        "width": 2.5,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://github.com/holmesrichards/exped",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/222f0f53-3bd3-419c-87b6-bc1482d065eb.jpg"
+    },
+    {
+        "id": "ee50c618-f109-44e3-a4ec-c2132e465059",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Filter"
+        ],
+        "name": "Fixed Filter Bank",
+        "description": "YuSynth Fixed Filter Bank, retuned, with board mounted sliders and jacks",
+        "width": 20,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/ffbmod",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/ee50c618-f109-44e3-a4ec-c2132e465059.jpg"
+    },
+    {
+        "id": "b99f521b-3ef6-40b2-b96f-6768949b6c9d",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Gate Processor"
+        ],
+        "name": "Gate Grinder",
+        "description": "Generate clocks and act on triggers and gates",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/GateGrinder",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/b99f521b-3ef6-40b2-b96f-6768949b6c9d.png"
+    },
+    {
+        "id": "4a6c1fca-a36c-40c7-ad96-4f8bc9c9c338",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Distortion"
+        ],
+        "name": "Megamodule",
+        "description": "Toy voice changing megaphone bent into synth module",
+        "width": 5,
+        "type": [
+            "Protoboard"
+        ],
+        "link": "https://github.com/holmesrichards/megamodule",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4a6c1fca-a36c-40c7-ad96-4f8bc9c9c338.jpg"
+    },
+    {
+        "id": "dc9f4b21-aecd-477b-8dba-577455225b6b",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "MIDI"
+        ],
+        "name": "MCVI",
+        "description": "Simple MIDI to CV",
+        "width": 5,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/holmesrichards/MCVI",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/dc9f4b21-aecd-477b-8dba-577455225b6b.png"
+    },
+    {
+        "id": "a465d5fe-4e17-42cb-b6e3-4599b7548029",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "LFO"
+        ],
+        "name": "VC LFO",
+        "description": "Auxiliary board and Kosmo format front panel for MFOS VC LFO, supplying sync and power header",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/MFOS_VC_LFO",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/a465d5fe-4e17-42cb-b6e3-4599b7548029.png"
+    },
+    {
+        "id": "d3e50230-f7a7-4ab6-923c-2c176e9f6db7",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Interface"
+        ],
+        "name": "Mikrokosmos II",
+        "description": "Piezo element amplifier inspired by Music Thing Modular's Mikrophonie",
+        "width": 2.5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https: //github.com/holmesrichards/mikrokosmosii",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/d3e50230-f7a7-4ab6-923c-2c176e9f6db7.jpg"
+    },
+    {
+        "id": "3fe8c809-22f9-4a46-bf47-9762e0d9965e",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Percussion",
+            "Drone"
+        ],
+        "name": "Noise Bells",
+        "description": "Percussion/drone module based on Hackaday CMOS Noise article",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/NoiseBells",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/3fe8c809-22f9-4a46-bf47-9762e0d9965e.JPG"
+    },
+    {
+        "id": "a78eb67d-0b2a-482e-8917-5907e82825e9",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "Precision ADSR",
+        "description": "Kassutronics Precision ADSR with retriggering and looping modifications",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/precadsr",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/a78eb67d-0b2a-482e-8917-5907e82825e9.JPG"
+    },
+    {
+        "id": "a4632e6c-9a9d-4842-b30f-bb86cc3e8002",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Quantizer"
+        ],
+        "name": "Dual Quantizer",
+        "description": "Dual CV quantizer with choice of ~72 scales",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/holmesrichards/QuantizerModule",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/a4632e6c-9a9d-4842-b30f-bb86cc3e8002.jpg"
+    },
+    {
+        "id": "dc858c4d-fc50-45b6-b0d8-ce195190e55c",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Utility"
+        ],
+        "name": "Attenuators",
+        "description": "3x passive attenuators",
+        "width": 5,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/Attenuators",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/dc858c4d-fc50-45b6-b0d8-ce195190e55c.jpg"
+    },
+    {
+        "id": "eca5d3b3-4f42-4a80-9401-28e1b0f68d65",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Filter"
+        ],
+        "name": "Sallen-Key Filter",
+        "description": "Panel for Barton Musical Circuits module",
+        "width": 5,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Sallen-Key_VCF",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/eca5d3b3-4f42-4a80-9401-28e1b0f68d65.jpg"
+    },
+    {
+        "id": "005c6d20-70c9-4b28-9079-40a3e36fce41",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Noise"
+        ],
+        "name": "Noise Cornucopia",
+        "description": "Panel for MFOS module",
+        "width": 5,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_Noise_Cornucopia",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/005c6d20-70c9-4b28-9079-40a3e36fce41.JPG"
+    },
+    {
+        "id": "824332f4-67af-4da2-b7e5-05b2c44f8a72",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "VCO"
+        ],
+        "name": "VCO",
+        "description": "Panel for MFOS module",
+        "width": 10,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCO",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/824332f4-67af-4da2-b7e5-05b2c44f8a72.JPG"
+    },
+    {
+        "id": "c836d776-db2a-4956-a4bc-2f2320cddf58",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "VCA"
+        ],
+        "name": "Dual Log/Lin VCA",
+        "description": "Panel for MFOS module",
+        "width": 7.5,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/MFOS_VCA",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/c836d776-db2a-4956-a4bc-2f2320cddf58.JPG"
+    },
+    {
+        "id": "0d6e5bfb-62ac-4ddb-a225-cc5ee88c153e",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Wave Shaper"
+        ],
+        "name": "VC 4046 Wave Shaper",
+        "description": "Barton 4046 wave shaper modified to add voltage control and variable gain",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/WaveShaper",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/0d6e5bfb-62ac-4ddb-a225-cc5ee88c153e.jpg"
+    },
+    {
+        "id": "f1252796-1ffa-4e1f-a78b-d85e3ff19256",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "CV Generator"
+        ],
+        "name": "Neuron/Difference Rectifier",
+        "description": "Panel for NLC module",
+        "width": 5,
+        "type": [
+            "Panel"
+        ],
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/NLC_Neuron",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f1252796-1ffa-4e1f-a78b-d85e3ff19256.jpg"
+    },
+    {
+        "id": "3ee58138-d194-4a5f-9dde-a7651f5ef312",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Interface"
+        ],
+        "name": "Joystick",
+        "description": "Joystick CV controller with adjustable ranges and offsets",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/holmesrichards/joystick",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/3ee58138-d194-4a5f-9dde-a7651f5ef312.jpg"
+    },
+    {
+        "id": "401712b8-85ba-4e84-9893-e66fdea50aa6",
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Sequencer"
+        ],
+        "name": "G.E.A.R. Sequencer",
+        "description": "Voltage controlled trigger sequencer with gap, Euclidean, ADC, and random algorithms",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/holmesrichards/gearseq",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/401712b8-85ba-4e84-9893-e66fdea50aa6.jpg"
+    },
+    {
+        "id": "6dd5cd42-1ba6-4ac3-9e0c-11e4b18a76c2",
+        "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+        "function": [
+            "CV Modulation"
+        ],
+        "name": "Kosmic Superspreader",
+        "description": "CV processing module for detuning oscillators.",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/sonosus/kosmicsuperspreader",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/6dd5cd42-1ba6-4ac3-9e0c-11e4b18a76c2.jfif"
+    },
+    {
+        "id": "33a9b751-a454-469e-a92f-995f391f227d",
+        "makerId": "b49a1046-a86f-4df5-93a7-f6b009a85f9e",
+        "function": [
+            "Noise"
+        ],
+        "name": "Noise Generator",
+        "description": "Super simple noise generator with the Electric Druid Noise2 chip.",
+        "type": [
+            "PCB"
+        ],
+        "link": "https://github.com/sonosus/noisegen",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/33a9b751-a454-469e-a92f-995f391f227d.jpg"
+    },
+    {
+        "id": "b60b6ad6-ee37-4c75-be95-ea805350955a",
+        "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
+        "function": [
+            "Filter"
+        ],
+        "name": "Transistor Ladder Filter",
+        "description": "A classic moog transistor ladder filter based on a Kassutronics design.",
+        "type": [
+            "PCB + Panel"
+        ],
+        "width": 10,
+        "link": "https://github.com/sebastianbeyer/KOSMO_ladderfilter",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/b60b6ad6-ee37-4c75-be95-ea805350955a.jpg"
+    },
+    {
+        "id": "f3010240-d6ff-44db-8cdf-ed2a9d5d8804",
+        "makerId": "b703570d-23ca-4439-ba3d-97adac60b8de",
+        "function": [
+            "MIDI"
+        ],
+        "name": "MIDI to Gate",
+        "description": "Simple Midi to gate module with 12 gates.",
+        "type": [
+            "PCB + Panel"
+        ],
+        "width": 7.5,
+        "link": "https://github.com/sebastianbeyer/SO_midi2gate",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f3010240-d6ff-44db-8cdf-ed2a9d5d8804.jpg"
+    },
+    {
+        "id": "fd3680ce-eb00-4758-980a-07ed26b877b2",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Gate Processor"
+        ],
+        "name": "Rotary Dial Phone Gate",
+        "description": "A manual and rotary dial phone gate module (0 to 5 V out with 2 outputs).",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/16/66-synthetiseur-modulaire-diy-manual-dial-phone-gate/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/fd3680ce-eb00-4758-980a-07ed26b877b2.jpg"
+    },
+    {
+        "id": "c4945ee6-6bf7-469a-a7ea-005f76fa6e3b",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Drum"
+        ],
+        "name": "Twin T Kick",
+        "description": "Kosmo format version of Krakenpine Twin T Kick",
+        "width": 5,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/01/24/25-bis-synthetiseur-modulaire-diy-twin-t-kick-drum/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/c4945ee6-6bf7-469a-a7ea-005f76fa6e3b.jpg"
+    },
+    {
+        "id": "129dd6bb-8f1d-4958-9163-67d9a464c20b",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Clock Divider"
+        ],
+        "name": "Clock Divider",
+        "description": "Kosmo format version of Niklas Rönnberg Clock Pulse Divider",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/09/17/14-synthetiseur-modulaire-diy-clock-divider/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/129dd6bb-8f1d-4958-9163-67d9a464c20b.jpg"
+    },
+    {
+        "id": "b9beb9b6-618b-4ec7-b6c7-f2fd587c3969",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "LFO"
+        ],
+        "name": "Simple LFO",
+        "description": "Kosmo format version of David Haillant simple LFO",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/09/16/13-synthetiseur-modulaire-diy-lfo/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/b9beb9b6-618b-4ec7-b6c7-f2fd587c3969.jpg"
+    },
+    {
+        "id": "4f925b13-b3d1-407d-9941-dfcee90b4db5",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "Simple AD/AR (555)",
+        "description": "Kosmo format version of PHOBoSapiens inc. Simple ADAR envelope generator with 555 chip",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/09/18/15-synthetiseur-modulaire-diy-ad-ar-envellope-generator/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4f925b13-b3d1-407d-9941-dfcee90b4db5.jpg"
+    },
+    {
+        "id": "d84fff2f-3849-4313-b197-b5c94c03f9d2",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Drum"
+        ],
+        "name": "Snare / Tom",
+        "description": "Kosmo format version of Unauthorised Service Snare Tom module",
+        "width": 5,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/12/21/23-synthetiseur-modulaire-diy-snare-tom/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/d84fff2f-3849-4313-b197-b5c94c03f9d2.jpg"
+    },
+    {
+        "id": "db4eaec0-d090-4fa6-bd5a-adbb9b2d5a3e",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Drum"
+        ],
+        "name": "Bass Drum ++",
+        "description": "Kosmo format version of Thomas Henry Bass Drum ++ module",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/12/22/25-synthetiseur-modulaire-diy-bass-drum/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/db4eaec0-d090-4fa6-bd5a-adbb9b2d5a3e.jpg"
+    },
+    {
+        "id": "4c590d1f-54e5-4f61-9ff9-3e959c0e1bb1",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Distortion"
+        ],
+        "name": "Dual Distortion",
+        "description": "Kosmo format version of Niklas Rönnberg Dual Distortion module",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/12/22/27-synthetiseur-modulaire-diy-distortion-unit/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4c590d1f-54e5-4f61-9ff9-3e959c0e1bb1.jpg"
+    },
+    {
+        "id": "b7a8d008-c50b-4acd-b538-a5a9591f5a56",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Gate Processor"
+        ],
+        "name": "Logic Gate",
+        "description": "Kosmo format version of Ken Stone Logic Gate module",
+        "width": 10,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/12/25/33-synthetiseur-modulaire-diy-logic-gate/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/b7a8d008-c50b-4acd-b538-a5a9591f5a56.jpg"
+    },
+    {
+        "id": "213c44a5-4d9f-42ae-8bc6-2d3a7921e92b",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Mixer"
+        ],
+        "name": "Mixer",
+        "description": "Kosmo format version of Niklas Rönnberg Mixer module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2020/07/14/47-synthetiseur-modulaire-diy-mixer-selecter-3/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/213c44a5-4d9f-42ae-8bc6-2d3a7921e92b.jpg"
+    },
+    {
+        "id": "dbf95161-23db-4858-8e2b-1218f5c7c13c",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Interface"
+        ],
+        "name": "Dual Stomp Box Adapter",
+        "description": "Kosmo format version of AI Synthesis module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2020/07/15/48-synthetiseur-modulaire-diy-dual-stomp-box-adaptater/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/dbf95161-23db-4858-8e2b-1218f5c7c13c.jpg"
+    },
+    {
+        "id": "9712df9f-24bc-42f0-a3cf-3ea593b0ecde",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Wave Shaper"
+        ],
+        "name": "Wave Shaper",
+        "description": "Kosmo format version of Barton Musical Circuits module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2020/07/23/56-synthetiseur-modulaire-diy-wave-shaper/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/9712df9f-24bc-42f0-a3cf-3ea593b0ecde.jpg"
+    },
+    {
+        "id": "6733e63d-72d9-42eb-991d-eb1e0302d92c",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Sub Oscillator"
+        ],
+        "name": "Sub Oscillator",
+        "description": "Kosmo format version of Carmello Azzarello module",
+        "width": 5,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/10/60-synthetiseur-modulaire-diy-sub-oscillator/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/6733e63d-72d9-42eb-991d-eb1e0302d92c.jpg"
+    },
+    {
+        "id": "fe229930-e91b-4194-8ca5-3964c8a8f86b",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Noise"
+        ],
+        "name": "Noise 5",
+        "description": "Eddy Bergman version of MFOS module",
+        "width": 5,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/11/61-synthetiseur-modulaire-diy-noise-x5/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/fe229930-e91b-4194-8ca5-3964c8a8f86b.jpg"
+    },
+    {
+        "id": "0b022291-be71-49e3-b1cd-f1858060b193",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "Envelope Follower",
+        "description": "Eddy Bergman version of ARP2600",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/13/63-synthetiseur-modulaire-diy-2600-arp-envelope-follower/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/0b022291-be71-49e3-b1cd-f1858060b193.jpg"
+    },
+    {
+        "id": "19bab7ed-0bdc-4091-a4c8-11bf5f1a81aa",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Effect"
+        ],
+        "name": "DSP FX 100",
+        "description": "Kosmo version with this circuit",
+        "width": 10,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/14/64-synthetiseur-modulaire-diy-dsp-fx-100/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/19bab7ed-0bdc-4091-a4c8-11bf5f1a81aa.jpg"
+    },
+    {
+        "id": "36e41c66-bb93-48f5-905c-2f9647069c0e",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Filter"
+        ],
+        "name": "Steiner/Parker VCF",
+        "description": "Kosmo format of Yusynth design from Eddy Bergman",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/17/67-synthetiseur-modulaire-diy-steiner-parker-diode-filter/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/36e41c66-bb93-48f5-905c-2f9647069c0e.jpg"
+    },
+    {
+        "id": "38359cf1-67f5-43fa-a690-1adcbb3968a4",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "LFO"
+        ],
+        "name": "Triple LFO",
+        "description": "Kosmo version and multiplication of Niklas Rönnberg Simple LFO",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/22/70-synthetiseur-modulaire-diy-triple-lfo/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/38359cf1-67f5-43fa-a690-1adcbb3968a4.jpg"
+    },
+    {
+        "id": "f5aac405-c70a-44d4-abc3-d910a50ed8d0",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Utility"
+        ],
+        "name": "Dual CV Joystick/Wheel",
+        "description": "Mix of CV Joystick and CV Wheel schematics from Niklas Rönnberg",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/24/71-synthetiseur-modulaire-diy-dual-cv-joystick-wheel/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f5aac405-c70a-44d4-abc3-d910a50ed8d0.jpg"
+    },
+    {
+        "id": "a310c6c7-403c-4b69-93fe-70bcaa2e6723",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Multiple"
+        ],
+        "name": "Buffered Multiple",
+        "description": "Kosmo format of a simple buffered multiple",
+        "width": 5,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/04/01/75-synthetiseur-modulaire-diy-buffered-multiple/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/a310c6c7-403c-4b69-93fe-70bcaa2e6723.jpg"
+    },
+    {
+        "id": "a69f0f62-55e4-4f6e-ab23-38af4aa42c95",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "CV Modulation"
+        ],
+        "name": "Dual CV Glide",
+        "description": "Simple Dual CV Glide module",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2020/07/20/53-synthetiseur-modulaire-diy-dual-cv-glide/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/a69f0f62-55e4-4f6e-ab23-38af4aa42c95.jpg"
+    },
+    {
+        "id": "e1718ae6-383b-4471-8517-6ceb291f8854",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Trigger Sequencer"
+        ],
+        "name": "Big Button",
+        "description": "Trigger sequencer by LMNC in module format",
+        "width": 15,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2019/12/23/28-synthetiseur-modulaire-diy-drum-trigger-sequencer/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/e1718ae6-383b-4471-8517-6ceb291f8854.jpg"
+    },
+    {
+        "id": "2c1a86e9-6189-4306-915b-f4fa1fbf4cdf",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Mixer",
+            "Crossfader"
+        ],
+        "name": "Mixer Crossfader",
+        "description": "Mix of 2 schematics, Simple Mixer  from LMNC & CrossFader from La Roue Tourne",
+        "width": 10,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/03/18/68-synthetiseur-modulaire-diy-mixer-cross-fader/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/2c1a86e9-6189-4306-915b-f4fa1fbf4cdf.jpg"
+    },
+    {
+        "id": "729ff389-aaf4-4123-90f3-001f31a9e827",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Wave Shaper"
+        ],
+        "name": "Multi PWM",
+        "description": "Kosmo format version of Barton Musical Circuits module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/17/79-synthetiseur-modulaire-diy-multi-pwm/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/729ff389-aaf4-4123-90f3-001f31a9e827.jpg"
+    },
+    {
+        "id": "7fbd8b73-aff4-4d6e-a54a-7bb2554746ed",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Filter"
+        ],
+        "name": "Diode ladder filter",
+        "description": "Kosmo adaptation of the Moritz Klein filter",
+        "width": 10,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/18/80-synthetiseur-modulaire-diy-moritz-klein-diode-ladder-vcf/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/7fbd8b73-aff4-4d6e-a54a-7bb2554746ed.jpg"
+    },
+    {
+        "id": "6f53c158-81f4-49a3-8fc3-f15cdee9cd76",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Ring Modulator"
+        ],
+        "name": "Active Real Ring Modulator",
+        "description": "Kosmo version of the CGS67 from Ken Stone",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/27/85-synthetiseur-modulaire-diy-active-real-ring-modulator/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/6f53c158-81f4-49a3-8fc3-f15cdee9cd76.jpg"
+    },
+    {
+        "id": "929213c1-a0f2-4b81-bb80-295750fff175",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "VCA"
+        ],
+        "name": "Dual VCA",
+        "description": "Kosmo format version of the dual VCA (with CA3080) from Niklas Rönneberg",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/19/81-synthetiseur-modulaire-diy-dual-vca/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/929213c1-a0f2-4b81-bb80-295750fff175.jpg"
+    },
+    {
+        "id": "48639e1f-5a9f-4e00-ac5a-2be8c841d082",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "CV Modulation"
+        ],
+        "name": "Dual Sloth Chaos",
+        "description": "Kosmo format version of the Non Linear Circuits module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/23/82-synthetiseur-modulaire-diy-dual-sloth-chaos-lfo/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/48639e1f-5a9f-4e00-ac5a-2be8c841d082.jpg"
+    },
+    {
+        "id": "06029c57-4e18-49b8-a44e-30dc0449218c",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "Bounce Bounce Bounce",
+        "description": "Stripboard layout of the Look Mum No Computer module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/25/83-synthetiseur-modulaire-diy-bounce-bounce-bounce/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/06029c57-4e18-49b8-a44e-30dc0449218c.jpg"
+    },
+    {
+        "id": "0e050d28-2e0c-4a56-b8a1-52fa2492f6c4",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "VCO"
+        ],
+        "name": "VCDO FM",
+        "description": "Kosmo format of the Hagiwo module",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/29/86-synthetiseur-modulaire-diy-vcdo-fm-arduino/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/0e050d28-2e0c-4a56-b8a1-52fa2492f6c4.jpg"
+    },
+    {
+        "id": "66503e6a-72e3-4375-aa95-87b753e49d19",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "VCO"
+        ],
+        "name": "VCDO Chord",
+        "description": "Kosmo format of the Hagiwo module ",
+        "width": 5,
+        "type": [
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/10/31/87-synthetiseur-modulaire-diy-vcdo-chord-arduino/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/66503e6a-72e3-4375-aa95-87b753e49d19.jpg"
+    },
+    {
+        "id": "3e6f37cd-dfad-4c49-b175-c826d784780c",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Wave Shaper"
+        ],
+        "name": "Timbre",
+        "description": "Kosmo format version of the Non Linear Circuits module",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/11/02/88-synthetiseur-modulaire-diy-timbre/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/3e6f37cd-dfad-4c49-b175-c826d784780c.jpg"
+    },
+    {
+        "id": "4ed58aff-35f3-4c0f-8810-9216db139c23",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Sequencer"
+        ],
+        "name": "Baby 8 ",
+        "description": "Kosmo format of the Baby 8 sequencer (with reset and mute on each steps + gate out)",
+        "width": 10,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/11/15/95-synthetiseur-modulaire-diy-baby-8-sequencer/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4ed58aff-35f3-4c0f-8810-9216db139c23.jpg"
+    },
+    {
+        "id": "4e0410ac-25e7-492d-a055-5ab5ac18340c",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Utility"
+        ],
+        "name": "Ducking side chain",
+        "description": "Kosmo format of the Juanito Moore module",
+        "width": 5,
+        "type": [
+            "Stripboard"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/11/07/92-synthetiseur-modulaire-diy-ducking-side-chain-module/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/4e0410ac-25e7-492d-a055-5ab5ac18340c.jpg"
+    },
+    {
+        "id": "5396bb80-d2a7-4036-a636-b03689b57a2a",
+        "makerId": "46ad1bc7-bea0-42da-a63f-7803c997c399",
+        "function": [
+            "Delay"
+        ],
+        "name": "Dual CV Gate Delay",
+        "description": "Kosmo format of the Balter Gate Delay from Non Linear Circuits",
+        "width": 10,
+        "type": [
+            "Stripboard",
+            "Schematic"
+        ],
+        "link": "https://soundbender36.wordpress.com/2021/11/06/91-synthetiseur-modulaire-diy-dual-balter-cv-gate-delay/",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/5396bb80-d2a7-4036-a636-b03689b57a2a.jpg"
+    },
+    {
+        "id": "e57b1658-210a-4b7f-9fce-626689804454",
+        "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+        "function": [
+            "MIDI",
+            "Utility",
+            "CV Modulation",
+            "Gate Processor"
+        ],
+        "name": "Multitool",
+        "description": "Development platform with various MIDI/CV/gate input and output options",
+        "width": 10,
+        "type": [
+            "PCB + Panel",
+            "Firmware"
+        ],
+        "link": "https://github.com/polykit/kosmo-multitool",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/e57b1658-210a-4b7f-9fce-626689804454.jpg"
+    },
+    {
+        "id": "1661b964-7173-4253-81d9-7f2756eb0360",
+        "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+        "function": [
+            "CV Modulation",
+            "Noise"
+        ],
+        "name": "Sample And Hold",
+        "description": "Simple sample and hold / noise module",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/polykit/kosmo-sample-and-hold",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/1661b964-7173-4253-81d9-7f2756eb0360.jpg"
+    },
+    {
+        "id": "805f5446-0ed7-40b3-8d6d-209ebf3eebed",
+        "makerId": "aeceb700-7467-4332-84a6-77f8af087035",
+        "function": [
+            "Delay",
+            "Effect",
+            "Distortion"
+        ],
+        "name": "Spring Reverb Driver",
+        "description": "Driver module for a classy spring reverb tank",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/polykit/kosmo-spring-reverb-driver",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/805f5446-0ed7-40b3-8d6d-209ebf3eebed.jpg"
+    },
+    {
+        "id": "cdae4ec1-8133-445f-a5bd-c6b1c8871406",
+        "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+        "function": [
+            "Mixer"
+        ],
+        "name": "Mix",
+        "description": "Five channel mixer",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/DavesKosmoModules/Mix",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/cdae4ec1-8133-445f-a5bd-c6b1c8871406.png"
+    },
+    {
+        "id": "58827f94-bf39-4a4b-8048-34fba68e0a75",
+        "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+        "function": [
+            "Multiple"
+        ],
+        "name": "Buren",
+        "description": "3 x 3 or 1 x 9 Mult",
+        "width": 5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/DavesKosmoModules/Buren-Mult",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/58827f94-bf39-4a4b-8048-34fba68e0a75.png"
+    },
+    {
+        "id": "ab04f445-aa9f-4824-92de-20be4e85e737",
+        "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+        "function": [
+            "Noise"
+        ],
+        "name": "Rain",
+        "description": "Reverse Transistor Noise Generator",
+        "width": 2.5,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/DavesKosmoModules/Rain-Noise",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/ab04f445-aa9f-4824-92de-20be4e85e737.png"
+    },
+    {
+        "id": "79829892-818a-4fb6-96e7-14a972cb88d6",
+        "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+        "function": [
+            "Envelope Generator"
+        ],
+        "name": "Farini",
+        "description": "Voltage Controlled Envelope Generator",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://github.com/DavesKosmoModules/Farini-VC-ADSR",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/79829892-818a-4fb6-96e7-14a972cb88d6.png"
+    },
+    {
+        "id": "507df447-1a9b-45ec-b620-f40020c6d683",
+        "makerId": "f87f0338-b3c3-4a30-b7b5-460efd9696af",
+        "function": [
+            "LFO"
+        ],
+        "name": "Brenn",
+        "description": "Quad slow LFO",
+        "width": 10,
+        "type": [
+            "PCB + Panel"
+        ],
+        "link": "https://raw.githubusercontent.com/DavesKosmoModules/Brenn-Slow-LFO",
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/507df447-1a9b-45ec-b620-f40020c6d683.png"
+    },
+    {
+        "makerId": "0bbd976e-3421-4a9c-b400-a7612e1417ec",
+        "function": [
+            "Multiple"
+        ],
+        "description": "A buffered multiple with 4 channels and 3 output for each",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/85ae4d56-c0c6-41d6-84da-528fe6e4a457.jpeg",
+        "link": "https://www.tamasgal.com/modular_synth/buffered_multiple_4x3/",
+        "type": [
+            "Protoboard + Panel"
+        ],
+        "id": "85ae4d56-c0c6-41d6-84da-528fe6e4a457",
+        "name": "Buffered Multiple 4x3"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Attenuator"
+        ],
+        "description": "Three attenuverters with individual, summed, and inverted summed outputs",
+        "width": 7.5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/0ddb36b3-a80b-4765-a423-3e744c5fcb1b.jpg",
+        "link": "https://github.com/holmesrichards/attenuverters",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "0ddb36b3-a80b-4765-a423-3e744c5fcb1b",
+        "name": "Attenuverters"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "External"
+        ],
+        "description": "Modification of Barton module to convert infrared light into control voltage",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/d0ca422c-184a-42f8-8a46-02f94a8d2b0a.jpg",
+        "link": "https://github.com/holmesrichards/irinput",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "d0ca422c-184a-42f8-8a46-02f94a8d2b0a",
+        "name": "Infrared Input"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "CV Modulation"
+        ],
+        "description": "All pass filter for doing voltage controlled morphing of low frequency waveforms",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/11575b41-34ba-4dd6-afa6-75ab198f51b4.jpg",
+        "link": "https://github.com/holmesrichards/vcapf",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "11575b41-34ba-4dd6-afa6-75ab198f51b4",
+        "name": "VC APF"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Envelope Follower"
+        ],
+        "description": "Envelope Follower based on ARP 2600, with mic and instrument preamplifiers",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/f1517f6f-4231-4872-854f-f3f3526b65a4.jpg",
+        "link": "https://github.com/holmesrichards/arpenvfol",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "f1517f6f-4231-4872-854f-f3f3526b65a4",
+        "name": "Envelope Follower"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "LFO"
+        ],
+        "description": "Dual shape variable low frequency oscillators, based on a Kassutronics design",
+        "width": 7.5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/446407c5-ab1a-415d-9a92-14a1111960ca.jpg",
+        "link": "https://github.com/holmesrichards/kdlfo",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "446407c5-ab1a-415d-9a92-14a1111960ca",
+        "name": "Dual LFO"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Ring Modulator"
+        ],
+        "description": "Old school ring modulator with active input and output stages, from Ken Stone's Active Real Ring Modulator circuit",
+        "width": 5,
+        "imageLink": "https: //raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/c7659a0c-3664-46fc-a3a4-bcacdeb2c110.jpg",
+        "link": "https://github.com/holmesrichards/arrm",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "c7659a0c-3664-46fc-a3a4-bcacdeb2c110",
+        "name": "Ring modulator"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Sample and Hold"
+        ],
+        "description": "Sample and hold / Track and hold from a design by Rene Schmitz",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/783c7332-051c-4920-8d10-2e9e21c54f68.jpg",
+        "link": "https://github.com/holmesrichards/yash",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "783c7332-051c-4920-8d10-2e9e21c54f68",
+        "name": "YASH"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Waveshaper"
+        ],
+        "description": "Kosmo konversion of Barton Full Wave Dual Rectifiers",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/12843036-bbef-4e16-86db-65aef18e3da1.jpg",
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/Barton_Dual_Rectifiers",
+        "type": [
+            "Panel"
+        ],
+        "id": "12843036-bbef-4e16-86db-65aef18e3da1",
+        "name": "Dual Rectifiers"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Comparator"
+        ],
+        "description": "Kosmo konversion of YuSynth Comparators",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/898eb344-71fc-4092-baa3-51ae6f360d64.jpg",
+        "link": "https://github.com/holmesrichards/frontpanels/tree/main/YuSynth_Comparators",
+        "type": [
+            "Panel"
+        ],
+        "id": "898eb344-71fc-4092-baa3-51ae6f360d64",
+        "name": "Comparators"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Oscillator"
+        ],
+        "description": "Full featured 3340 based VCO",
+        "width": 10,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/44ca4119-55ac-4f4f-b962-04713ff1ba33.jpg",
+        "link": "https://github.com/holmesrichards/herovco",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "44ca4119-55ac-4f4f-b962-04713ff1ba33",
+        "name": "Hero VCO"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Oscillator"
+        ],
+        "description": "Subsidiary 3340 based VCO",
+        "width": 5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/8c8c37bf-4a11-4fc1-a8ef-32d0bcc4a839.jpg",
+        "link": "https://github.com/holmesrichards/sidekickvco",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "8c8c37bf-4a11-4fc1-a8ef-32d0bcc4a839",
+        "name": "Sidekick VCO"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Clock Generator"
+        ],
+        "description": "Microcontroller based clock synth module",
+        "width": 5,
+        "imageLink": "https://github.com/holmesrichards/clock/Images/clock_front.jpg?raw=true",
+        "link": "https://github.com/holmesrichards/clock",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "43e103e9-aa08-4fa8-ac65-28b2efbb65ea",
+        "name": "Clock"
+    },
+    {
+        "makerId": "05b0ac95-b3ca-43eb-82e2-e32878948967",
+        "function": [
+            "Utility"
+        ],
+        "description": "Voltage processor with summers and lag",
+        "width": 7.5,
+        "imageLink": "https://raw.githubusercontent.com/boylejack/kosmodulargrid/main/public/data/images/170a3a0d-d5b0-439d-be99-ff4ab65d66e1.jpg",
+        "link": "https://github.com/holmesrichards/voltproc",
+        "type": [
+            "PCB + Panel"
+        ],
+        "id": "170a3a0d-d5b0-439d-be99-ff4ab65d66e1",
+        "name": "Voltage Processor"
+    }
 ]
